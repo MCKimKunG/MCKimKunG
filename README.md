@@ -10,10 +10,6 @@ Hello, My name is KimKunG. My nick name is Kim.
 
 <img src="https://github-readme-stats.vercel.app/api?username=MCKimKunG&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="MCKimKunG's GitHub Stats">
 
-### ⭐️ My Idols And CREDIT
-- 💝 Idols me [SteveKunG](https://github.com/SteveKunG)
-- 💥 Credit [ohmiler](https://github.com/ohmiler)
-
 <!--
 **MCKimKunG/MCKimKunG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
