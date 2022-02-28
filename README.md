@@ -1,8 +1,7 @@
 # KimKunG
 
 ## ✨ About me
-
-Hello, My name is KimKunG. My nick name is Kim.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23000000&vCenter=true&lines=MCKimKunG+Developer)](https://git.io/typing-svg)
 
 - 💻 นักเขียนโปรแกรม
 - 🤔 ไม่รู้ทำไรต่อดี
