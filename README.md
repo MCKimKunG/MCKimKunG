@@ -1,7 +1,7 @@
 # KimKunG
 
 ## ✨ About me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231D97F7&width=450&height=40&lines=Hello%2C+My+name+is+KimKunG.+My+nick+name+is+Kim.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231D97F7&duration=6500&width=480&height=40&lines=Hello%2C+My+name+is+KimKunG.+My+nick+name+is+Kim.)](https://git.io/typing-svg)
 
 - 💻 นักเขียนโปรแกรม
 - 🤔 ไม่รู้ทำไรต่อดี
