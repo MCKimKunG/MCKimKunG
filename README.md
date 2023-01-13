@@ -7,8 +7,6 @@
 - 🤔 ไม่รู้ทำไรต่อดี
 - 👦🏻 อายุ 15 ปี
 
-<img src="https://github-readme-stats.vercel.app/api?username=MCKimKunG&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="MCKimKunG's GitHub Stats">
-
 <!--
 **MCKimKunG/MCKimKunG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
