@@ -1,23 +1,7 @@
-# KimKunG
+<h1 align="center">Hi 👋, I'm KimKunG</h1>
+<h3 align="center">Work on @Dimension Studio</h3>
 
-## ✨ About me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%231D97F7&duration=8000&width=550&height=40&lines=Hello%2C+My+name+is+KimKunG.+My+nick+name+is+Kim.)](https://git.io/typing-svg)
+- ✨ Hello, My name is **Kim**
+- 📫 I'm use this language **ReactJS, NextJS, Java, Typescript**
 
-- 💻 นักเขียนโปรแกรม
-- 🤔 ไม่รู้ทำไรต่อดี
-- 👦🏻 อายุ 15 ปี
-
-<!--
-**MCKimKunG/MCKimKunG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MCKimKunG&show_icons=true&theme=prussian" alt="mckimkung" /></p>
